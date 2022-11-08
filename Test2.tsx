@@ -1,3 +1,5 @@
+// Convert selected Image/Document to Base64 in React Native Expo 
+
 import { View, Text } from 'react-native';
 import React from 'react';
 import { Button } from '../components';
